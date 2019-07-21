@@ -1,0 +1,16 @@
+{
+  "name": "nina-und-pascal",
+  "version": "1.0.0",
+  "description": "♥ Hochzeits-Webseite von Nina & Pascal ♥",
+  "scripts": {
+    "start": "live-server --port=7000"
+  },
+  "author": "Michaela Lehr",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
