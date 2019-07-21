@@ -16,7 +16,7 @@
             n(a)
         }, d)
     }
-    var t = new Date(2018,9,12,11,0)
+    var t = new Date(2018,9,12,11,30)
       , l = 6e4
       , a = 60 * l
       , i = 24 * a
